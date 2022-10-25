@@ -1,0 +1,2 @@
+goto-statement @ git+https://github.com/fadein/python-goto.git@0a2ee2910b27c0751cf966aa9041c773b241e14f
+steam[client]==1.4.3
